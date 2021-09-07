@@ -8,8 +8,8 @@ Unfortunately, coding or programming, in general, is still uncharted territory f
 
 🌳
 
-Since I work a lot with survey data and some tasks are pretty repetitive, I wrote a package to simplify the process as much as possible. You can find it [here](https://github.com/bonschorno/sep). And if you are interested in setting up conjoint analyses in Qualtrics, this guide [here](https://github.com/bonschorno/conjoint_excel)can help you. 
+Since I work a lot with survey data and some tasks are pretty repetitive, I wrote a package to simplify the process as much as possible. You can find it [here](https://github.com/bonschorno/sep). And if you are interested in setting up conjoint analyses in Qualtrics, this guide [here](https://github.com/bonschorno/conjoint_excel) can help you. 
 
 📊 📈
 
-Every now and then, I try my hand at data visualisations as part of the #TidyTuesday initiative. My tiny portfolio can be found [here](https://github.com/bonschorno/TidyTuesday).
+Every now and then, I try my hand at data visualisations as part of the #TidyTuesday initiative. My tiny portfolio can be found [here](https://github.com/bonschorno/TidyTuesday/tree/master/plots).
