@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut 👋
 
 I study social sciences at a non-social science university with a focus on quantitative methods. Along the way, I work on surveys a lot, mainly around environmental issues and austerity measures. My go-to programming language is R, but I am also familiar with Python and MySQL. 
 
